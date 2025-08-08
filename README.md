@@ -1,4 +1,4 @@
-# 📺 TV Products SQL Analysis
+#  TV Products SQL Analysis
 
 This project involves SQL-based data analysis using a sample dataset of TV products. It demonstrates SQL skills such as table creation, data insertion, filtering, sorting, joins, subqueries, aggregate functions, views, and indexing using **MySQL Workbench**.
 
